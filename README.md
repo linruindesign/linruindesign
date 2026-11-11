@@ -13,3 +13,6 @@ Product designer. I build design systems and keep Figma and code in sync.
 Small tools and experiments around design tokens, Figma automation and design-to-code handoff.
 
 ## Elsewhere
+
+- Portfolio: [strunkis.framer.website](https://strunkis.framer.website/)
+- LinkedIn: [linkedin.com/in/strunkis](https://www.linkedin.com/in/strunkis)
