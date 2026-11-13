@@ -14,5 +14,5 @@ Small tools and experiments around design tokens, Figma automation and design-to
 
 ## Elsewhere
 
-- Portfolio: [strunkis.framer.website](https://strunkis.framer.website/)
+- Portfolio: [strunkis.com](https://strunkis.com)
 - LinkedIn: [linkedin.com/in/strunkis](https://www.linkedin.com/in/strunkis)
